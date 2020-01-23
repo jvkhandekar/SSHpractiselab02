@@ -1,3 +1,0 @@
-SSh test file
-Added line from github remote repository
-Net line is from local repository
